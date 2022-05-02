@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
-/**
- * Created by jt on 12/30/17.
- */
+
 @RestController
 public class VendorController {
 
